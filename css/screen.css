@@ -205,19 +205,22 @@ label {
 /* ===== LAYOUT STYLES ====== */
 #input-email {
   font-family: Arial, Helvetica, Sans-serif;
+  background-color: #F0FFFF;
   margin: auto;
-  width: 80%
+  width: 80%;
 }
 
 #input-age-verification {
   font-family: Lato;
+  background-color: #FAEBD7;
   margin: auto;
-  width: 80%
+  width: 80%;
 }
 
 #input-submit {
   font-family: Roboto Mono;
+  background-color: #696969;
   margin: auto;
-  width: 80%
+  width: 80%;
 }
 /* ===== STATE STYLES ======= */
