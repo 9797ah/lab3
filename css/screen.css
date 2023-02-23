@@ -208,6 +208,7 @@ label {
   background-color: #F0FFFF;
   margin: auto;
   width: 80%;
+  text-align: center;
 }
 
 #input-age-verification {
@@ -215,6 +216,7 @@ label {
   background-color: #FAEBD7;
   margin: auto;
   width: 80%;
+  text-align: center;
 }
 
 #input-submit {
@@ -222,5 +224,6 @@ label {
   background-color: #696969;
   margin: auto;
   width: 80%;
+  text-align: right;
 }
 /* ===== STATE STYLES ======= */
