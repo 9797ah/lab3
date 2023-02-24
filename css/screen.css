@@ -203,6 +203,12 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+
+p, h1 {
+  text-align: center;
+  font-family: IBM Plex Serif;
+}
+
 #input-email {
   font-family: Arial, Helvetica, Sans-serif;
   background-color: #F0FFFF;
