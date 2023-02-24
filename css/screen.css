@@ -203,33 +203,53 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
-
+main {
+  background-color: #2F4F4F;
+}
 p, h1 {
   text-align: center;
-  font-family: IBM Plex Serif;
+  font-family: "Times New Roman", Serif;
+  background-color: #483D8B;
+  margin: auto;
+}
+p {
+  padding-bottom: 1em;
+}
+h1 {
+  padding-top: 1em;
 }
 
 #input-email {
   font-family: Arial, Helvetica, Sans-serif;
   background-color: #F0FFFF;
   margin: auto;
-  width: 80%;
+  width: 100%;
   text-align: center;
+  display: block;
+  padding: 0.1em;
 }
 
 #input-age-verification {
   font-family: Lato;
   background-color: #FAEBD7;
   margin: auto;
-  width: 80%;
+  width: 100%;
   text-align: center;
+  display: block;
+  padding: 0.1em;
 }
 
 #input-submit {
   font-family: Roboto Mono;
   background-color: #696969;
   margin: auto;
-  width: 80%;
+  width: 100%;
   text-align: right;
+  display: block;
+  padding: 0.1em;
+
+}
+#submit {
+  margin-right: 1.5em;
 }
 /* ===== STATE STYLES ======= */
