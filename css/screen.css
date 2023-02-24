@@ -207,6 +207,7 @@ p, h1 {
   text-align: center;
   background-color: #483D8B;
   margin: auto;
+  width: 95%
 }
 p {
   padding-bottom: 1em;
@@ -223,7 +224,7 @@ h1 {
   font-family: "Lucida Console", Monospace;
   background-color: #F0FFFF;
   margin: auto;
-  width: 100%;
+  width: 95%;
   text-align: center;
   display: block;
   padding: 0.1em;
@@ -233,7 +234,7 @@ h1 {
   font-family: "Lucida Console", Monospace;
   background-color: #FAEBD7;
   margin: auto;
-  width: 100%;
+  width: 95%;
   text-align: center;
   display: block;
   padding: 0.1em;
@@ -242,7 +243,7 @@ h1 {
 #input-submit {
   background-color: #696969;
   margin: auto;
-  width: 100%;
+  width: 95%;
   text-align: right;
   display: block;
   padding: 0.1em;
