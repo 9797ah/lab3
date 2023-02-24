@@ -203,9 +203,6 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
-main {
-  background-color: #2F4F4F;
-}
 p, h1 {
   text-align: center;
   font-family: "Times New Roman", Serif;
@@ -217,10 +214,12 @@ p {
 }
 h1 {
   padding-top: 1em;
+  padding-bottom: 0.5em;
+  font-size: 35px;
 }
 
 #input-email {
-  font-family: Arial, Helvetica, Sans-serif;
+  font-family: "Lucida Console", Monospace;
   background-color: #F0FFFF;
   margin: auto;
   width: 100%;
@@ -230,7 +229,7 @@ h1 {
 }
 
 #input-age-verification {
-  font-family: Lato;
+  font-family: "Lucida Console", Monospace;
   background-color: #FAEBD7;
   margin: auto;
   width: 100%;
@@ -240,7 +239,6 @@ h1 {
 }
 
 #input-submit {
-  font-family: Roboto Mono;
   background-color: #696969;
   margin: auto;
   width: 100%;
@@ -252,5 +250,6 @@ h1 {
 #submit {
   margin-right: 1.5em;
   padding: 0.2em;
+  font-family: "Lucida Console", Monospace;
 }
 /* ===== STATE STYLES ======= */
