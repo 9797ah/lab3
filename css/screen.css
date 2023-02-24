@@ -211,7 +211,7 @@ label {
   width: 95%;
   text-align: center;
   display: block;
-  padding: 0.5em;
+  padding: 0.5em, 0;
 }
 
 #input-age-verification {
@@ -221,7 +221,7 @@ label {
   width: 95%;
   text-align: center;
   display: block;
-  padding: 0.2em;
+  padding: 0.2em, 0;
 }
 
 #input-submit {
@@ -230,7 +230,7 @@ label {
   width: 95%;
   text-align: right;
   display: block;
-  padding: 0.1em;
+  padding: 0.1em, 0;
 
 }
 #submit {
@@ -239,6 +239,11 @@ label {
   font-family: "Lucida Console", Monospace;
 }
 /* ===== STATE STYLES ======= */
+main {
+  background-color:#f0f0f0;
+  padding: 1em, 0;
+}
+
 p, h1 {
   text-align: center;
   background-color: #483D8B;
