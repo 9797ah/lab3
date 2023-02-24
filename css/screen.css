@@ -203,22 +203,6 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
-p, h1 {
-  text-align: center;
-  background-color: #483D8B;
-  margin: auto;
-  width: 95%
-}
-p {
-  padding-bottom: 1em;
-  font-family: "Times New Roman", Serif;
-}
-h1 {
-  padding-top: 1em;
-  padding-bottom: 0.5em;
-  font-family: "Verdana", Sans-Serif;
-  font-size: 35px;
-}
 
 #input-email {
   font-family: "Lucida Console", Monospace;
@@ -227,7 +211,7 @@ h1 {
   width: 95%;
   text-align: center;
   display: block;
-  padding: 0.1em;
+  padding: 0.5em;
 }
 
 #input-age-verification {
@@ -237,7 +221,7 @@ h1 {
   width: 95%;
   text-align: center;
   display: block;
-  padding: 0.1em;
+  padding: 0.2em;
 }
 
 #input-submit {
@@ -255,3 +239,19 @@ h1 {
   font-family: "Lucida Console", Monospace;
 }
 /* ===== STATE STYLES ======= */
+p, h1 {
+  text-align: center;
+  background-color: #483D8B;
+  margin: auto;
+  width: 95%
+}
+p {
+  padding-bottom: 1em;
+  font-family: "Times New Roman", Serif;
+}
+h1 {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  font-family: "Verdana", Sans-Serif;
+  font-size: 35px;
+}
